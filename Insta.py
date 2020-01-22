@@ -1,7 +1,7 @@
 # coding=utf-8
 ###############################################################################
 # Instagram Brute Forcer
-# Developed By RetroAk
+# Developed By RetroAk 
 # RetroAk@jabber.de
 # !/usr/bin/python
 ###############################################################################
@@ -344,8 +344,9 @@ if __name__ == "__main__":
         logger = logging.getLogger(__name__)
 
     print(bcolors.HEADER + """.-------------------------------------------------------.""")
-    print("""| InSTa |""")
-    print("""| by RetroAk |""")
+    print(""" InSTa """)
+    print(""" by RetroAk """)
+    print(""" LinuxMallu """)
     print("""'-------------------------------------------------------'""")
 
     print(bcolors.OKGREEN + "[+] Username Loaded:", bcolors.BOLD + USER + bcolors.ENDC)
