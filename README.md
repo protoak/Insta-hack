@@ -1,16 +1,9 @@
-# InStA
-# Author: @RetroAk
-# https://github.com/RetroAk/InStA.git
+# Insta-hack
+# Author: @protoak
+# https://github.com/protoak/InStA.git
 
 ## Getting Started
-1. ```git clone   https://github.com/RetroAk/InStA.git```
+1. ```git clone   https://github.com/protoak/Insta-hack.git```
 2. ```cd Insta-hack```
-3. ```python Insta.py -h ```
-
-## A linux operating system. We recommend :
-- Kali Linux
-- Cyborg
-- Parrot
-- BackTrack
-- Backbox
+3. ```python Insta_v2.py -h ```
 
