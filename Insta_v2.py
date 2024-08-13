@@ -1,7 +1,7 @@
 # coding=utf-8
 ###############################################################################
 # Instagram Brute Forcer
-# Developed By RetroAk 
+# Developed By protak 
 # RetroAk@jabber.de
 # !/usr/bin/python
 ###############################################################################
